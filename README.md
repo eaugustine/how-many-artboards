@@ -1,2 +1,2 @@
-# how-many-artboards
+# How Many Artboards?
 A Sketch plugin for counting the number of artboards in your document or on your page.

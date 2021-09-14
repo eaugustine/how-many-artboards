@@ -3,11 +3,12 @@
 	"description": "A Sketch plugin for counting the number of artboards in your file or on your page.",
 	"author": "Erica Augustine",
 	"homepage": "http://github.com/eaugustine",
-	"version": "1.0",
+	"version": "2.0",
 	"identifier": "com.ericaaugustine.sketch.how-many-artboards",
 	"compatibleVersion": "53",
-	"bundleVersion": "1.0",
-	 "icon": "icon.png",
+	"bundleVersion": "2.0",
+	"appcast": "https://github.com/eaugustine/how-many-artboards/blob/master/.appcast.xml",
+	"icon": "icon.png",
 	"commands": [
 		{
 			"name": "In this document",
@@ -25,9 +26,6 @@
 		}
 	],
 	"menu": {
-		"items": [
-			"inFile",
-			"inPage"
-		]
+		"items": ["inFile", "inPage"]
 	}
 }

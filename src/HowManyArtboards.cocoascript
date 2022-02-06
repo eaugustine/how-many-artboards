@@ -1,3 +1,4 @@
+
 // Counts the number of artboards in the Sketch file
 
 function inFile(context) {

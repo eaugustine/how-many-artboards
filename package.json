@@ -1,7 +1,7 @@
 {
   "name": "How Many Artboards?",
   "description": "A Sketch plugin for counting the number of artboards in your file or on your page.",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "engines": {
     "sketch": ">=49.0"
   },

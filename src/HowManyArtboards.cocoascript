@@ -1,7 +1,7 @@
 
 // Counts the number of artboards in the Sketch file
 
-export function inFile(context) {
+function inFile(context) {
 
 	var sketch = require('sketch');
 	var doc = context.document;
@@ -15,7 +15,7 @@ export function inFile(context) {
 
 // Counts the number of artboards in the current page
 
-export function inPage(context) {
+function inPage(context) {
 
 	var sketch = require('sketch');
 	var doc = context.document;
